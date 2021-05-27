@@ -1,6 +1,13 @@
 ### Hi there! 👋
 ### My name's Peter, and I'm a developer and front-end software engineering student.
 
+### Personal Info:
+* 📍  Denver, CO
+* 🏠  Minneapolis, MN
+* 🚹  he/him
+* 🖇  [LinkedIn](http://www.linkedin.com/in/pcmueller)
+* 📫  pmuellerleile@gmail.com
+
 ####  Education:
 * 👨‍💻  Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
 * 🎓  Bachelor's Degree in Political Science from Gustavus Adolphus College (2008)
@@ -8,7 +15,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
 #### I'm currently learning:
-* 🌱  React Redux
+* ⚛️ React Redux
 
 #### Technologies:
 
@@ -44,8 +51,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
 
 #### Contact:
-* 🖇  [LinkedIn](http://www.linkedin.com/in/pcmueller)
-* 📫  pmuellerleile@gmail.com
+
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=pcmueller)
