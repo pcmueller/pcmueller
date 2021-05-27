@@ -1,9 +1,16 @@
 ### Hi there 👋
+### My name's Peter and I'm a full-time software engineering student studying front-end web and application development.
 
-- 🌱 I’m currently learning React Redux
+#### 🎓 Education:
+* 💻 Front-End Engineering Certification from Turing School of Software & Design (anticipated completion: August 2021)
+* 📚 Bachelor's Degree in Political Science from Gustavus Adolphus College (2008)
 
-#### Technologies: 
+#### 🌱 I'm currently learning:
+* React Redux
 
-#### 📫 Contact:
+#### 👨‍💻 Technologies:
+
+
+#### 📫  Contact:
 * [LinkedIn](http://www.linkedin.com/in/pcmueller)
 * pmuellerleile@gmail.com
