@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning React Redux
 
-### Technologies: 
+#### Technologies: 
 
-📫 How to reach me:
+#### 📫 Contact:
 * [LinkedIn](http://www.linkedin.com/in/pcmueller)
 * pmuellerleile@gmail.com
