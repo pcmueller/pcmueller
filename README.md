@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 ### My name's Peter, and I'm a developer and front-end software engineering student.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
