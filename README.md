@@ -12,9 +12,9 @@
 
 <table>
     <tr>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119360616-074c6580-bc68-11eb-8ac1-f1ca05b87bf8.png" alt="javascript" width="50" height="auto" /></td>
+        <td>JavaScript</td>
         <td>React</td>
-        <td>React Router</td>
+        <td>Router</td>
         <td>HTML</td>
         <td>CSS</td>
         <td>SASS</td>
