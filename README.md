@@ -2,9 +2,9 @@
 ### My name's Peter, and I'm a developer and front-end software engineering student.
 
 ### Personal Info:
+* 🚹  Peter Muellerleile, he/him
 * 📍  Denver, CO
 * 🏠  Minneapolis, MN
-* 🚹  he/him
 * 🖇  [LinkedIn](http://www.linkedin.com/in/pcmueller)
 * 📫  pmuellerleile@gmail.com
 
