@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name's Peter and I'm a full-time software engineering student studying front-end web and application development.
+### My name's Peter and I'm a full-time software engineering student focused on front-end web and application development.
 
 #### 🎓 Education:
 * 💻 Front-End Engineering Certification from Turing School of Software & Design (anticipated completion: August 2021)
@@ -9,6 +9,7 @@
 * React Redux
 
 #### 👨‍💻 Technologies:
+
 
 
 #### 📫  Contact:
