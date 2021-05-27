@@ -12,7 +12,7 @@
 
 <table>
     <tr>
-        <td>JavaScript<img src="https://user-images.githubusercontent.com/73092355/119360616-074c6580-bc68-11eb-8ac1-f1ca05b87bf8.png" alt="javascript" width="50" height="auto" /></td>
+        <td><img src="https://user-images.githubusercontent.com/73092355/119360616-074c6580-bc68-11eb-8ac1-f1ca05b87bf8.png" alt="javascript" width="50" height="auto" /></td>
         <td>React</td>
         <td>React Router</td>
         <td>HTML</td>
@@ -32,7 +32,6 @@
         <td><img src="https://user-images.githubusercontent.com/73092355/119402483-3bd91500-bc9a-11eb-9465-edf38b6a68d3.png" alt="Heroku" width="50" height="auto" /></td>
     </tr>
 </table>
-https://img.shields.io/badge/<JavaScript>-<>-<yellow>.svg?&style=for-the-badge&logo=<https://user-images.githubusercontent.com/73092355/119360616-074c6580-bc68-11eb-8ac1-f1ca05b87bf8.png>
 
 #### 📫  Contact:
 * [LinkedIn](http://www.linkedin.com/in/pcmueller)
