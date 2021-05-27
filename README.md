@@ -5,5 +5,5 @@
 ### Technologies: 
 
 📫 How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/pcmueller?trk=profile-badge)
+* [LinkedIn](www.linkedin.com/in/pcmueller)
 * pmuellerleile@gmail.com
