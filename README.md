@@ -10,7 +10,7 @@
 
 ####  Education:
 * 👨‍💻  Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
-* 🎓  Bachelor's Degree in Political Science from Gustavus Adolphus College (2008)
+* 🎓  Bachelor's Degree in Political Science from Gustavus Adolphus College
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
