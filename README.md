@@ -1,5 +1,5 @@
 ### Hi there! 👋
-### My name's Peter, and I'm a developer and front-end software engineering student.
+### My name's Pete, and I'm a developer and front-end software engineering student.
 
 ### Personal Info:
 * 🚹  Peter Muellerleile, he/him
