@@ -4,11 +4,11 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true)
 
 ####  Education:
-* 👨‍💻 Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
-* 🎓 Bachelor's Degree in Political Science from Gustavus Adolphus College (2008)
+* 👨‍💻  Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
+* 🎓  Bachelor's Degree in Political Science from Gustavus Adolphus College (2008)
 
 #### I'm currently learning:
-* 🌱 React Redux
+* 🌱  React Redux
 
 #### Technologies:
 
@@ -42,5 +42,5 @@
 </table>
 
 #### Contact:
-* 🖇 [LinkedIn](http://www.linkedin.com/in/pcmueller)
+* 🖇  [LinkedIn](http://www.linkedin.com/in/pcmueller)
 * 📫  pmuellerleile@gmail.com
