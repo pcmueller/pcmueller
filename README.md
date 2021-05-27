@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name's Peter, and I'm a developer and student currently in a front-end software engineering program.
+### My name's Peter, and I'm a developer and front-end software engineering student.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true)
 
