@@ -1,6 +1,5 @@
 ### Hi there 👋
-### My name's Peter.
-### I'm a developer currently enrolled full-time in a front-end software engineering student program.
+### My name's Peter.  I'm a developer and student currently enrolled in a front-end software engineering program.
 
 #### 🎓 Education:
 * Front-End Engineering Certification from Turing School of Software & Design (anticipated completion: August 2021)
