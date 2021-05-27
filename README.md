@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name's Peter, and I'm a developer and front-end software engineering student.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=dark)
 
 ####  Education:
 * 👨‍💻  Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
@@ -9,6 +9,8 @@
 
 #### I'm currently learning:
 * 🌱  React Redux
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
 
 #### Technologies:
 
