@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name's Peter, and I'm a developer and front-end software engineering student.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
 ####  Education:
 * 👨‍💻  Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
@@ -9,8 +9,6 @@
 
 #### I'm currently learning:
 * 🌱  React Redux
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
 
 #### Technologies:
 
@@ -42,6 +40,8 @@
         <td><img src="https://user-images.githubusercontent.com/73092355/119402483-3bd91500-bc9a-11eb-9465-edf38b6a68d3.png" alt="Heroku" width="50" height="auto"/> </td>
     </tr>
 </table>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
 
 #### Contact:
 * 🖇  [LinkedIn](http://www.linkedin.com/in/pcmueller)
