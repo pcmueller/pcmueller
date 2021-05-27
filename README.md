@@ -32,8 +32,7 @@
         <td><img src="https://user-images.githubusercontent.com/73092355/119402483-3bd91500-bc9a-11eb-9465-edf38b6a68d3.png" alt="Heroku" width="50" height="auto" /></td>
     </tr>
 </table>
-
-https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145
+https://img.shields.io/badge/<JavaScript>-<>-<yellow>.svg?&style=for-the-badge&logo=<https://user-images.githubusercontent.com/73092355/119360616-074c6580-bc68-11eb-8ac1-f1ca05b87bf8.png>
 
 #### 📫  Contact:
 * [LinkedIn](http://www.linkedin.com/in/pcmueller)
