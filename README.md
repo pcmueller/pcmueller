@@ -1,16 +1,16 @@
 ### Hi there 👋
-### My name's Peter, and I'm a developer and student currently in a full-time front-end software engineering program.
+### My name's Peter, and I'm a developer and student currently in a front-end software engineering program.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true)
 
-#### 🎓 Education:
-* Front-End Engineering Certification from Turing School of Software & Design (anticipated completion: August 2021)
-* Bachelor's Degree in Political Science from Gustavus Adolphus College (2008)
+####  Education:
+* 👨‍💻 Front-End Engineering Certification from Turing School of Software & Design (anticipated completion: August 2021)
+* 🎓 Bachelor's Degree in Political Science from Gustavus Adolphus College (2008)
 
-#### 🌱 I'm currently learning:
-* React Redux
+#### I'm currently learning:
+* 🌱 React Redux
 
-#### 👨‍💻 Technologies:
+#### Technologies:
 
 <table>
     <tr>
@@ -41,6 +41,6 @@
     </tr>
 </table>
 
-#### 📫  Contact:
-* [LinkedIn](http://www.linkedin.com/in/pcmueller)
-* pmuellerleile@gmail.com
+#### Contact:
+* 🖇 [LinkedIn](http://www.linkedin.com/in/pcmueller)
+* 📫  pmuellerleile@gmail.com
