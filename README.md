@@ -40,7 +40,7 @@
         <td><img src="https://user-images.githubusercontent.com/73092355/119402483-3bd91500-bc9a-11eb-9465-edf38b6a68d3.png" alt="Heroku" width="50" height="auto"/> </td>
     </tr>
 </table>
-<br>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
 
 #### Contact:
