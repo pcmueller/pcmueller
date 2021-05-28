@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there 👋
 ### My name's Pete, and I'm a developer and front-end software engineering student.
 
 ### Personal Info:
