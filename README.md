@@ -2,7 +2,7 @@
 ### My name's Pete, and I'm a developer and front-end software engineering student.
 
 ### Personal Info:
-* 🚹 &nsp; Peter Muellerleile, he/him
+* 🚹 &ensp; Peter Muellerleile, he/him
 * 📍 &nbsp; Denver, CO
 * 🏠 &ensp; Minneapolis, MN
 * 🖇  [LinkedIn](http://www.linkedin.com/in/pcmueller)
