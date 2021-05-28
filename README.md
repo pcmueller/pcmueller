@@ -3,7 +3,7 @@
 
 ### Personal Info:
 * 🚹 &emsp; Peter Muellerleile, he/him
-* 📍  Denver, CO
+* 📍 &nbsp Denver, CO
 * 🏠  Minneapolis, MN
 * 🖇  [LinkedIn](http://www.linkedin.com/in/pcmueller)
 * 📫  pmuellerleile@gmail.com
