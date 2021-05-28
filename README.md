@@ -12,10 +12,10 @@
 * 👨‍💻 &ensp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
 * 🎓 &ensp; Bachelor's Degree in Political Science from Gustavus Adolphus College
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
+
 #### I'm currently learning:
 * ⚛️ &ensp; React Redux
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
 #### Technologies:
 
@@ -47,6 +47,8 @@
         <td><img src="https://user-images.githubusercontent.com/73092355/119402483-3bd91500-bc9a-11eb-9465-edf38b6a68d3.png" alt="Heroku" width="50" height="auto"/> </td>
     </tr>
 </table>
+
+<br />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
 
