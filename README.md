@@ -3,19 +3,19 @@
 
 ### Personal Info:
 * 🚹 &ensp; Peter Muellerleile, he/him
-* 📍 &nbsp; Denver, CO
+* 📍 &ensp; Denver, CO
 * 🏠 &ensp; Minneapolis, MN
-* 🖇  [LinkedIn](http://www.linkedin.com/in/pcmueller)
-* 📫  pmuellerleile@gmail.com
+* 🖇 &ensp; [LinkedIn](http://www.linkedin.com/in/pcmueller)
+* 📫 &ensp; pmuellerleile@gmail.com
 
 ####  Education:
-* 👨‍💻  Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
-* 🎓  Bachelor's Degree in Political Science from Gustavus Adolphus College
+* 👨‍💻 &ensp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
+* 🎓 &ensp; Bachelor's Degree in Political Science from Gustavus Adolphus College
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
 #### I'm currently learning:
-* ⚛️ React Redux
+* ⚛️ &ensp; React Redux
 
 #### Technologies:
 
@@ -49,9 +49,5 @@
 </table>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
-
-#### Contact:
-
-
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=pcmueller)
