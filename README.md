@@ -3,20 +3,20 @@
 
 #### Personal & Contact Info:
 * 🦥 &nbsp; Peter Muellerleile, he/him
-* 📍 &ensp; Denver, CO
-* 🏠 &ensp; Minneapolis, MN
-* 🖇 &ensp; [LinkedIn](http://www.linkedin.com/in/pcmueller)
-* 📫 &ensp; pmuellerleile@gmail.com
+* 📍 &nbsp; Denver, CO
+* 🏠 &nbsp; Minneapolis, MN
+* 🖇 &nbsp; [LinkedIn](http://www.linkedin.com/in/pcmueller)
+* 📫 &nbsp; pmuellerleile@gmail.com
 
 ####  Education:
-* 👨‍💻 &ensp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
-* 🎓 &ensp; Bachelor's Degree in Political Science from Gustavus Adolphus College
+* 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
+* 🎓 &nbsp; Bachelor's Degree in Political Science from Gustavus Adolphus College
 <br />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
 #### I'm currently learning:
-* ⚛️ &ensp; Redux
+* ⚛️ &nbsp; Redux
 
 #### Technologies:
 
