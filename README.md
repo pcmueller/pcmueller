@@ -32,7 +32,6 @@
         <td>NPM</td>
         <td>Cypress</td>
         <td>Mocha</td>
-        <td>Heroku</td>
     </tr>
     <tr>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
@@ -45,7 +44,6 @@
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
         <td><img src="https://user-images.githubusercontent.com/73092355/119361263-b5f0a600-bc68-11eb-9f41-8e10aa013e7a.png" alt="Cypress" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/mocha.png" alt="Mocha" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119402483-3bd91500-bc9a-11eb-9465-edf38b6a68d3.png" alt="Heroku" width="50" height="auto"/> </td>
     </tr>
 </table>
 
