@@ -16,7 +16,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
 #### I'm currently learning:
-* ⚛️ &nbsp; Redux
+* ⚛️ &nbsp; React Context & Hooks API
 
 #### Technologies:
 
