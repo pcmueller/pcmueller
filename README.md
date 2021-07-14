@@ -37,8 +37,8 @@
     </tr>
     <tr>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/css3.png" alt="CSS" width="50" height="auto" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="auto" /></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/sass.png" alt="Sass" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/redux.png" alt="Redux" width="50" height="auto" /></td>
