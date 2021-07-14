@@ -16,7 +16,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
 #### I'm currently learning:
-* ⚛️ &nbsp; Context API, GraphQL
+* 📚 &nbsp Apollo & GraphQL
 
 #### Technologies:
 
@@ -33,6 +33,7 @@
         <td>NPM</td>
         <td>Cypress</td>
         <td>Mocha</td>
+        <td>TravisCI</td>
     </tr>
     <tr>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
@@ -46,6 +47,9 @@
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
         <td><img src="https://user-images.githubusercontent.com/73092355/119361263-b5f0a600-bc68-11eb-9f41-8e10aa013e7a.png" alt="Cypress" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/mocha.png" alt="Mocha" width="50" height="auto" /></td>
+        <td><img src="https://www.clipartmax.com/middle/m2i8m2d3i8d3m2m2_tools-platforms-travis-ci-logo-png/" alt="TravisCI" width="50" height="auto" /></td>
+        
+        
     </tr>
 </table>
 
