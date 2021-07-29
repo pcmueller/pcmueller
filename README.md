@@ -4,6 +4,7 @@
 #### Personal & Contact Info:
 * 🦥 &nbsp; Peter Muellerleile, he/him
 * 📍 &nbsp; Denver, CO
+* 💚 &nbsp; Oakland, CA
 * 🏠 &nbsp; Minneapolis, MN
 * 🖇 &nbsp; [LinkedIn](http://www.linkedin.com/in/pcmueller)
 * 📫 &nbsp; pmuellerleile@gmail.com
