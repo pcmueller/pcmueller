@@ -21,7 +21,6 @@
 #### Technologies:
 
 <table>
-    <tr>
         <td>JavaScript</td>
         <td>HTML5</td>
         <td>CSS3</td>
