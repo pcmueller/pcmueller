@@ -23,20 +23,6 @@
 
 <table>
     <tr>
-        <td>JavaScript</td>
-        <td>HTML5</td>
-        <td>CSS3</td>
-        <td>Sass</td>
-        <td>React</td>
-        <td>Redux</td>
-        <td>Hooks</td>
-        <td>Router</td>
-        <td>NPM</td>
-        <td>Cypress</td>
-        <td>Mocha</td>
-        <td>TravisCI</td>
-    </tr>
-    <tr>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="auto" /></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="auto" /></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="auto" /></td>
@@ -49,8 +35,6 @@
         <td><img src="https://user-images.githubusercontent.com/73092355/119361263-b5f0a600-bc68-11eb-9f41-8e10aa013e7a.png" alt="Cypress" width="50" height="auto" /></td>
         <td><img src="https://github.com/tkswann2/tech-logos/blob/master/mocha.png" alt="Mocha" width="50" height="auto" /></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-plain.svg" alt="TravisCI" width="50" height="auto" /></td>
-        
-        
     </tr>
 </table>
 
