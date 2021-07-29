@@ -21,6 +21,7 @@
 #### Technologies:
 
 <table>
+    <tr>
         <td>JavaScript</td>
         <td>HTML5</td>
         <td>CSS3</td>
@@ -33,6 +34,7 @@
         <td>Cypress</td>
         <td>Mocha</td>
         <td>TravisCI</td>
+    </tr>
     <tr>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="auto" /></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="auto" /></td>
