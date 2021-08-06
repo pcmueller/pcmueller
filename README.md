@@ -16,8 +16,9 @@
 * 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design
 * 🎓 &nbsp; Bachelor's Degree in Political Science from Gustavus Adolphus College
 
-### Technologies
 ***
+
+### Technologies
 
 <p>
      <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
@@ -44,8 +45,9 @@
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </p>
 
-### GitHub Stats
 ***
+
+### GitHub Stats
 
 <p>
  <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&layout=compact&theme=blue-green&hide=stars_private=true">
