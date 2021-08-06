@@ -43,6 +43,7 @@
 <br />
 
 <p align="center">
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
-<p/>
+ <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green">
+ <img width="45%" align="right" alt="GH top tech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green">
+</p>
+
