@@ -21,37 +21,26 @@
 
 #### Technologies:
 
+<p align="center">
+     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+     <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+</p>
+<p align="center">
+     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+<p align="center">
+     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%2343853D.svg?&color=lightgray&style=for-the-badge&logo=graphQL&logoColor=ff69b4"/> 
+     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+     <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
+     <img src="https://camo.githubusercontent.com/bd9c528263673db09f67bcf3445ba8e5512cfb6829e966a31ef7a378933b231a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437970726573732e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d637970726573732e696f266c6f676f436f6c6f723d7768697465"/>
+     <img src="https://img.shields.io/badge/npm-%23cb0000.svg?logo=npm&logoColor=white&style=for-the-badge" alt="npm" />
+     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+</p>
 
-<table>
-     <tr>
-        <td>JavaScript</td>
-        <td>HTML5</td>
-        <td>CSS3</td>
-        <td>Sass</td>
-        <td>React</td>
-        <td>Redux</td>
-        <td>Hooks</td>
-        <td>Router</td>
-        <td>NPM</td>
-        <td>Cypress</td>
-        <td>Mocha</td>
-        <td>TravisCI</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="auto" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="auto" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/sass.png" alt="Sass" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/redux.png" alt="Redux" width="50" height="auto" /></td>
-        <td><img src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" alt="Hooks" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119361186-9d808b80-bc68-11eb-97ee-05bde2700716.png" alt="router" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119361263-b5f0a600-bc68-11eb-9f41-8e10aa013e7a.png" alt="Cypress" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/mocha.png" alt="Mocha" width="50" height="auto" /></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-plain.svg" alt="TravisCI" width="50" height="auto" /></td>
-    </tr>
-</table>
 
 <br />
 
