@@ -43,6 +43,6 @@
 <br />
 
 <p align="center">
- <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&layout=compact&theme=blue-greent&hide=stars_private=true">
+ <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&layout=compact&theme=blue-green&hide=stars_private=true">
  <img width="45%" align="right" alt="GH top tech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&show_icons=true&layout=compact&theme=blue-green">
 </p>
