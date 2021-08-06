@@ -21,6 +21,7 @@
 * 📚 &nbsp; ApolloClient & GraphQL
 
 <br/>
+
 ### Technologies
 ***
 
