@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ### My name's Pete (he/him), and I'm a front-end software engineer.
 
-## Personal & Contact Info:
+### Personal & Contact Info:
 * 🦥 &nbsp; Peter Muellerleile, he/him
 * 📍 &nbsp; Denver, CO
 * 🏠 &nbsp; Minneapolis, MN
@@ -10,14 +10,14 @@
       <a href="mailto:pmuellerleile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </p>
 
-###  Education:
+####  Education:
 * 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design
 * 🎓 &nbsp; Bachelor's Degree in Political Science from Gustavus Adolphus College
 
-### I'm currently learning:
-* 📚 &nbsp; Apollo & GraphQL
+#### I'm currently learning:
+* 📚 &nbsp; ApolloClient & GraphQL
 
-## Technologies
+### Technologies
 
 <p>
      <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
@@ -45,7 +45,7 @@
 </p>
 <br />
 
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
  <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&layout=compact&theme=blue-green&hide=stars_private=true">
