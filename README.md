@@ -18,8 +18,9 @@
 
 
 #### I'm currently learning:
-* 📚 &nbsp; ApolloClient & GraphQL<br/>
+* 📚 &nbsp; ApolloClient & GraphQL
 
+<br/>
 ### Technologies
 ***
 
