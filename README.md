@@ -18,9 +18,10 @@
 
 
 #### I'm currently learning:
-* 📚 &nbsp; ApolloClient & GraphQL. 
+* 📚 &nbsp; ApolloClient & GraphQL  
 
 ### Technologies
+***
 
 <p>
      <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
@@ -45,9 +46,11 @@
      <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</p>. 
+</p>  
+
 
 ### GitHub Stats
+***
 
 <p>
  <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&layout=compact&theme=blue-green&hide=stars_private=true">
