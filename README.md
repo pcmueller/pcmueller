@@ -18,7 +18,7 @@
 #### I'm currently learning:
 * 📚 &nbsp; Apollo & GraphQL
 
-#### Technologies:
+### Technologies:
 
 <p align="center">
      <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -41,6 +41,8 @@
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </p>
 <br />
+
+### GitHub Stats
 
 <p align="center">
  <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&layout=compact&theme=blue-green&hide=stars_private=true">
