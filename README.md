@@ -1,5 +1,5 @@
 ### Hi there! 👋
-### My name's Pete (he/him), and I'm a front-end software engineer.
+### My name's Pete, and I'm a front-end software engineer.
 
 ***
 
