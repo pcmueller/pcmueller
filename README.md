@@ -34,6 +34,7 @@
      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
      <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white" alt="travisCI"/>
      <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha" />
+     <img src="https://img.shields.io/badge/chai-A11404?style=for-the-badge&logo=chai&logoColor=white" alt="chai" />
      <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" />
 </p>
 <p align="center">
