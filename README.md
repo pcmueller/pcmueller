@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ### My name's Pete (he/him), and I'm a front-end software engineer.
 
-<br />
+
 
 #### Personal & Contact Info:
 * 🦥 &nbsp; Peter Muellerleile, he/him
@@ -16,8 +16,10 @@
 * 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design
 * 🎓 &nbsp; Bachelor's Degree in Political Science from Gustavus Adolphus College
 
+
 #### I'm currently learning:
 * 📚 &nbsp; ApolloClient & GraphQL
+
 
 ### Technologies
 
@@ -45,11 +47,11 @@
      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </p>
-<br />
+
 
 ### GitHub Stats
 
 <p align="center">
  <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&layout=compact&theme=blue-green&hide=stars_private=true">
- <img width="45%" align="right" alt="GH top tech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&show_icons=true&layout=compact&theme=blue-green">
+ <img width="45%" alt="GH top tech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&show_icons=true&layout=compact&theme=blue-green">
 </p>
