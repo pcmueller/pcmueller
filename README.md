@@ -4,10 +4,13 @@
 #### Personal & Contact Info:
 * 🦥 &nbsp; Peter Muellerleile, he/him
 * 📍 &nbsp; Denver, CO
-* 💚 &nbsp; Oakland, CA
 * 🏠 &nbsp; Minneapolis, MN
-* 🖇 &nbsp; ![https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](http://www.linkedin.com/in/pcmueller)
-* 📫 &nbsp; pmuellerleile@gmail.com
+
+<p align="center">
+      <a href="https://www.linkedin.com/in/pcmueller/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
+      <a href="mailto:pmuellerleile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+</p>
+<br>
 
 ####  Education:
 * 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
