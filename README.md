@@ -14,9 +14,6 @@
 ####  Education:
 * 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
 * 🎓 &nbsp; Bachelor's Degree in Political Science from Gustavus Adolphus College
-<br />
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 
 #### I'm currently learning:
 * 📚 &nbsp; Apollo & GraphQL
@@ -43,10 +40,9 @@
      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </p>
-
-
 <br />
 
+<p align="center">
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&theme=blue-green)
-
-<!--- ![Profile View Counter](https://komarev.com/ghpvc/?username=pcmueller) -- >
+<p/>
