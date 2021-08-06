@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ### My name's Pete (he/him), and I'm a front-end software engineer.
 
-<br/>
+***
 
 #### Personal & Contact Info:
 * 🦥 &nbsp; Peter Muellerleile, he/him
@@ -53,5 +53,5 @@
 
 <p>
  <img width="45%" alt="GH stats" src="https://github-readme-stats.vercel.app/api?username=pcmueller&show_icons=true&layout=compact&theme=blue-green&hide=stars_private=true">
- <img width="45%" alt="GH top tech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&show_icons=true&layout=compact&theme=blue-green">
+ <img width="45%" align="right" alt="GH top tech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcmueller&show_icons=true&layout=compact&theme=blue-green">
 </p>
