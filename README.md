@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ### My name's Pete (he/him), and I'm a front-end software engineer.
 
-### Personal & Contact Info:
+#### Personal & Contact Info:
 * 🦥 &nbsp; Peter Muellerleile, he/him
 * 📍 &nbsp; Denver, CO
 * 🏠 &nbsp; Minneapolis, MN
