@@ -12,10 +12,10 @@
       <a href="mailto:pmuellerleile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </p>
 
-[Project Portfolio](https://terminal.turing.edu/profiles/883)
+
 
 ####  Education:
-* 👨‍💻 &nbsp; Front-End Engineering Certification from Turing School of Software & Design
+* 👨‍💻 &nbsp; Front-End Engineering Certification from [Turing School of Software & Design](https://terminal.turing.edu/profiles/883)
 * 🎓 &nbsp; Bachelor's Degree in Political Science from Gustavus Adolphus College
 
 ***
