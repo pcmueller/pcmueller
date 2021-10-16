@@ -1,3 +1,6 @@
+![canva-banner](https://user-images.githubusercontent.com/51062974/137573207-64442258-5456-4bc4-a380-14f1474396fa.png)
+
+
 ### Hi there! 👋
 ### My name's Pete, and I'm a front-end software engineer.
 
