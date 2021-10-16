@@ -2,16 +2,12 @@
 
 
 ### Hi there! 👋
-### My name's Pete (he/him), and I'm a front-end software engineer.
+### My name's Pete (he/him), and I'm a front-end software engineer based in Denver, CO.
 
-***
-
-* 📍 &nbsp; Denver, CO
 <p>
       <a href="https://www.linkedin.com/in/pcmueller/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
       <a href="mailto:pmuellerleile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </p>
-
 
 
 ####  Education:
