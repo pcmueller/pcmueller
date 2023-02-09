@@ -16,7 +16,7 @@
 
 ***
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b215aeaf-df5a-4160-bd61-d7521eb77966" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img type="text/javascript" src="//cdn.credly.com/assets/utilities/embed.js" />
 
 <p>
      <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
